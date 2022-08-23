@@ -1,1 +1,1 @@
-# stranger-memory-game
+# Stranger Memory Game
